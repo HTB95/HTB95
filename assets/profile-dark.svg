@@ -4,48 +4,39 @@
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; }
 text, tspan { white-space: pre; font-family: 'ConsolasFallback', Consolas, 'Liberation Mono', monospace; }
 .header { font-size: 16px; fill: #c9d1d9; }
-.ascii { font-size: 12px; fill: #c9d1d9; }
+.ascii { font-size: 12.5px; fill: #c9d1d9; }
 .key { fill: #ffa657; }
 .value { fill: #a5d6ff; }
 .dim { fill: #616e7f; }
 .section { fill: #c9d1d9; }
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15" />
-<rect x="10" y="10" width="360" height="510" rx="18" fill="#0d1117" stroke="#30363d" />
-<text x="0" y="28" class="ascii" transform="translate(15 0)">
-<tspan x="0" y="28.0">===--=+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="0" y="42.5">==+=+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="0" y="57.0">==+**#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="0" y="71.5">++==+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="0" y="86.0">===++*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="0" y="100.5">====-=#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="0" y="115.0">======*##%%#*+*#**%%##%%%@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="0" y="129.5">=======+*#*=-+==-=#+=+**#%%%@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="0" y="144.0">++======--:::-----==-==-==+*%%%%%%%@@@@@@@@@@@@@</tspan>
-<tspan x="0" y="158.5">===----::::...::::::::::----==++*##%@@@@@@@@@@@@</tspan>
-<tspan x="0" y="173.0">=====---::............:::::::--==+##%%@@@@@@@@@@</tspan>
-<tspan x="0" y="187.5">+==----:::...............::::::--=**#%%@@@@@@@@@</tspan>
-<tspan x="0" y="202.0">+++++=:::::...............::::::==+**#%%%%%%%%@@</tspan>
-<tspan x="0" y="216.5">+++++:::::..............:::::::-=+***######%%%%%</tspan>
-<tspan x="0" y="231.0">===*+::...............::::::::-==**#*######%%%%%</tspan>
-<tspan x="0" y="245.5">+++*%=::::.......:::::::::::::-=+***#######%%#%%</tspan>
-<tspan x="0" y="260.0">+*%%#*-:=+++=---------:::::::::-=++***######%#%%</tspan>
-<tspan x="0" y="274.5">=+=*@%%#%%%#***+++++=-------:::--++***########%%</tspan>
-<tspan x="0" y="289.0">=+*#@%##==+#%+::---=++=-----------=+***#######%%</tspan>
-<tspan x="0" y="303.5">===#@%%#=:=--###+=---===----------=++**#########</tspan>
-<tspan x="0" y="318.0">+==#-+###-++-*+*%%#*=+++===========+***#######%%</tspan>
-<tspan x="0" y="332.5">++-::=##*--==#@*****+==++*#%%@@@@@@@@@@%%%%%###%</tspan>
-<tspan x="0" y="347.0">=--::-**=:::-%*-+***+=--:----==+++**##%%%%@@@@%#</tspan>
-<tspan x="0" y="361.5">:::---=*=:::=%=::-----:::::------==+**######*#@@</tspan>
-<tspan x="0" y="376.0">:..::----::**=*%:..::::::::::----===++**###*+=-:</tspan>
-<tspan x="0" y="390.5">..::-=+=:..........:::::::---=====++****++-::=+=</tspan>
-<tspan x="0" y="405.0">--::::-+=:..........:::::---======++++++====+#-:</tspan>
-<tspan x="0" y="419.5">=-::::-==:.........:::::----====+++++++==--**+=:</tspan>
-<tspan x="0" y="434.0">=:::::::...........:::::---==+++++++++====+#*=-:</tspan>
-<tspan x="0" y="448.5">%-:::...........:::::::--===+++++++++==+==---=-:</tspan>
-<tspan x="0" y="463.0">%*-::..........:::::::--===+++++++++++++:::----:</tspan>
-<tspan x="0" y="477.5">#--===-:.::::::::::::--===++++++++++++*+:::---=#</tspan>
-<tspan x="0" y="492.0">*:::--=+=:::::::::::---====+++++++++++*##*+**##%</tspan>
+<rect x="10" y="85" width="360" height="360" rx="22" fill="#0d1117" stroke="#30363d" />
+<text x="190" y="98.2" text-anchor="middle" class="ascii">
+<tspan x="190" y="98.2">&amp;&amp;X;;;;+++++++$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;x;+</tspan>
+<tspan x="190" y="112.8">&amp;&amp;X++x+++++++x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;+:;</tspan>
+<tspan x="190" y="127.2">&amp;&amp;X++x+x++++;;X$&amp;$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;x:;</tspan>
+<tspan x="190" y="141.8">&amp;&amp;X++++++++++;++:;;+++x$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;x;;</tspan>
+<tspan x="190" y="156.2">$$X+++;;;++++;;:.....:::;+X$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;x;;</tspan>
+<tspan x="190" y="170.8">+++;;+++xxxxx+:........::;xX$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;x;;</tspan>
+<tspan x="190" y="185.2">+xxxxx++++++x+......:::::+xXXX$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;Xx;+</tspan>
+<tspan x="190" y="199.8">++++++++++++x$XXXx++;;:::;+xX$X$$$&amp;&amp;&amp;&amp;&amp;xxXx+</tspan>
+<tspan x="190" y="214.2">++++++++++++x$X+;xx+;;;;;;;xXX$$$$$&amp;&amp;&amp;xxXXXX</tspan>
+<tspan x="190" y="228.8">;+;;;;++++++;:X;;XXXx++X$$$$&amp;$$$$$&amp;&amp;&amp;Xx$&amp;$$X</tspan>
+<tspan x="190" y="243.2">++;+;;+++++.:;;;:x::::::;;+xXXx++x$&amp;$xx&amp;&amp;$xx</tspan>
+<tspan x="190" y="257.8">;;;;+;+++++;::;:....:::;+++xx+++::;$xxX$&amp;&amp;&amp;&amp;</tspan>
+<tspan x="190" y="272.2">;;;;;;X&amp;&amp;&amp;&amp;X:.:.....::;;++++++x+::XXxxxxx$$&amp;</tspan>
+<tspan x="190" y="286.8">;;;;;+&amp;&amp;&amp;&amp;&amp;$+::...:::;++++x++:;;+&amp;&amp;&amp;&amp;&amp;X$&amp;$$x</tspan>
+<tspan x="190" y="301.2">;;;;;+$&amp;$$&amp;$;;;:::::;;+++xxxxXXX&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$</tspan>
+<tspan x="190" y="315.8">++++xxX$&amp;$&amp;$;.:::::;;;++xxxxxxXxX&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="190" y="330.2">++++x$$$&amp;$&amp;$$x;:;;+++xxxx++xxXx:x$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="190" y="344.8">+xxxX$$$&amp;$$$$$:::x;:;++++++xx;.:x$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="190" y="359.2">xxxX$$$$&amp;$$$$$...+;::;;;+++x:..;X$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="190" y="373.8">++$$$&amp;$$&amp;$$$$$X.:x+;;;;;;;;:...+$$$$$&amp;$&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="190" y="388.2">x$&amp;$$$&amp;$&amp;$$$$$+.;xx+;;;;;:....:X$$$$$&amp;$&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="190" y="402.8">X&amp;&amp;$&amp;&amp;&amp;&amp;&amp;$$$$$..+xx+;;;:......:X$$$$&amp;$$&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="190" y="417.2">X&amp;&amp;$&amp;&amp;&amp;&amp;&amp;&amp;$$$+..:xx+;;........:$$$$$&amp;&amp;$&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
+<tspan x="190" y="431.8">$$&amp;$$&amp;&amp;&amp;&amp;&amp;$$X......+:.........;$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</tspan>
 </text>
 <text x="390" y="30" class="header"><tspan>htb95@mobile</tspan><tspan class="dim">  ----------------------------------------------</tspan></text>
 <text x="390" y="50" class="dim">. </text><text x="410" y="50" class="key">Role</text><text x="446" y="50" class="dim">:</text><text x="558" y="50" class="dim">..........</text><text x="640" y="50" class="value">AI Researcher - Mobile Developer</text>
