@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="530px" viewBox="0 0 985 530" role="img" aria-label="Huynh Thanh Binh profile">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="530px" viewBox="0 0 985 530" role="img" aria-label="Huynh Thanh Binh GitHub profile">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; }
 text, tspan { white-space: pre; font-family: 'ConsolasFallback', Consolas, 'Liberation Mono', monospace; }
@@ -10,54 +10,62 @@ text, tspan { white-space: pre; font-family: 'ConsolasFallback', Consolas, 'Libe
 .dim { fill: #afbfd0; }
 .section { fill: #24292f; }
 </style>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" class="ascii">
-<tspan x="15" y="30">=:---=====-:          :+%@@@@@@@@@@@@#</tspan>
-<tspan x="15" y="50">-----+++++=.          :+#%%%%@@@@@@@@#</tspan>
-<tspan x="15" y="70">+++=-===-==          .=*###%%@@@@@@@#+</tspan>
-<tspan x="15" y="90">+++=---==*#. .    ....=**##%%%@@@@@@+*</tspan>
-<tspan x="15" y="110">=--======+#**#+==-....-+*###%%%@@@@#+*</tspan>
-<tspan x="15" y="130">=----====-%@=**::=-:::.=*#%##%%@@@@+**</tspan>
-<tspan x="15" y="150">==-======-#%=:=+=:-:::.:+*##%%%@@@#+##</tspan>
-<tspan x="15" y="170">::--======.**-+%#+=*##*##%%##%%@@@+*%%</tspan>
-<tspan x="15" y="190">-----====- +- *+*+::=+*#%@@@%%@@@%=%@@</tspan>
-<tspan x="15" y="210">--:---==: .-- *..:  ..:-*##*##@@@*=%@%</tspan>
-<tspan x="15" y="230">---=====  :-.--    .::-=*#+.::=@@=+%@%</tspan>
-<tspan x="15" y="250">--------:. -:     ..:--=+=:=-  ##=*%@@</tspan>
-<tspan x="15" y="270">----=**+=: ::     .::====-:*:  *++##@@</tspan>
-<tspan x="15" y="290">:::-@@@@%.        .:-====-=+: =@*+****</tspan>
-<tspan x="15" y="310">:::+@@@@@+       ..-=====-.:.:@@@%#%@%</tspan>
-<tspan x="15" y="330">:--*@@@@@-::    ..:====++=.:-%@@@@%#@%</tspan>
-<tspan x="15" y="350">:-:*@@%@@-.-:  ...:-==+++***%@@@@@@@@%</tspan>
-<tspan x="15" y="370">---*@@%@@+ .. ...::-==+++**#%@@@@@@@@@</tspan>
-<tspan x="15" y="390">===+%@@%@=   ....:--=+++++*#+%@@@@@@@@</tspan>
-<tspan x="15" y="410">=++#%@%%@#   ..::--=++++++**.%@@@@@@@@</tspan>
-<tspan x="15" y="430">==+%%@%@@@#-::--==++++==++#: %@@@@@@@@</tspan>
-<tspan x="15" y="450">==#%#@%@%%@*.-+=-=+======*+ .%@@@@@@@@</tspan>
-<tspan x="15" y="470">=+#%%@%@%%@- .=:.:----==++  :#@@@@@@@@</tspan>
-<tspan x="15" y="490">=*%%%@%@%%@:  ::..::--=++   -%@@@@@@@@</tspan>
-<tspan x="15" y="510">*%%%%@@%%%@+  =-...::--=-  .-%%@@@@@@@</tspan>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15" />
+<text x="0" y="28" class="ascii" transform="translate(15 0) scale(0.36 1)">
+<tspan x="0" y="28.0">@@@@@#==========++++++++++===--=+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=---=*</tspan>
+<tspan x="0" y="43.2">@@@@@%+==========++++++++===+=+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*=---+</tspan>
+<tspan x="0" y="58.4">@@@@@%=++++***++++++++++====+**#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+-:::=</tspan>
+<tspan x="0" y="73.6">@@@@@%+=+++++=========++++++==+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+::::=</tspan>
+<tspan x="0" y="88.8">@@@@@%+=+++++================++*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=::::=</tspan>
+<tspan x="0" y="104.0">@@@@@%+++++++++++++++++=======-=#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=-::-=</tspan>
+<tspan x="0" y="119.2">@@@@@%+=++++++++++==============*##%%#*+*#**%%##%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*=:--=</tspan>
+<tspan x="0" y="134.4">@@%@@#+=++++++++++===============+*#*=-+==-=#+=+**#%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+=---=</tspan>
+<tspan x="0" y="149.6">%@%%%%+==+++====++++++++++++======--:::-----==-==-==+*%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+=---=</tspan>
+<tspan x="0" y="164.8">%%%%%*+=++++==---============----::::...::::::::::----==++*##%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+==--=</tspan>
+<tspan x="0" y="180.0">%%%%@%*+=+=====================---::............:::::::--==+##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+=---=</tspan>
+<tspan x="0" y="195.2">======+===========+++++++=+==----:::...............::::::--=**#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=----+</tspan>
+<tspan x="0" y="210.4">++++====--=======++++++++++++++=:::::...............::::::==+**#%%%%%%%%@@@@@@@@@@@@@@@@@@@@@%+=---=</tspan>
+<tspan x="0" y="225.6">++++==+==========++++++++++++++:::::..............:::::::-=+***######%%%%%@@@@@@@@@@@@@@@@@%%%+----=</tspan>
+<tspan x="0" y="240.8">-++++++++++++=========+======*+::...............::::::::-==**#*######%%%%%%%@@@@@@@@@@@@@@%***+=--=+</tspan>
+<tspan x="0" y="256.0">-+++++++++++*=============+++*%=::::.......:::::::::::::-=+***#######%%#%%%%%@@@@@@@@@@@@@#****=--=+</tspan>
+<tspan x="0" y="271.2">=++++++++++++++++++++++++++*%%#*-:=+++=---------:::::::::-=++***######%#%%%%%%@@@@@@@@@@@*****##+==+</tspan>
+<tspan x="0" y="286.4">=======+-========++=====++=+=*@%%#%%%#***+++++=-------:::--++***########%%%%%%@@@@@@@@@@#********+=+</tspan>
+<tspan x="0" y="301.6">=======+==========+======+=+*#@%##==+#%+::---=++=-----------=+***#######%%#%%%%@@@@@@@@#********##**</tspan>
+<tspan x="0" y="316.8">+*++++++++++++++++++++++++===#@%%#=:=--###+=---===----------=++**##########%%%%@@@@@@@%*+*#########*</tspan>
+<tspan x="0" y="332.0">==+--====-==-==========+=++==#-+###-++-*+*%%#*=+++===========+***#######%%%%%%%@@@@@@@*+**##%####%#*</tspan>
+<tspan x="0" y="347.2">-=+--================+=++=++-::=##*--==#@*****+==++*#%%@@@@@@@@@@%%%%%###%%%%%%@@@@@@#++*#@%%%%%%#**</tspan>
+<tspan x="0" y="362.4">=======+==========+========--::-**=:::-%*-+***+=--:----==+++**##%%%%@@@@%##%%%@@@@@@%+++#@@@@@%%#**#</tspan>
+<tspan x="0" y="377.6">=======+==========+==+++=::::---=*=:::=%=::-----:::::------==+**######*#@@%%%%@@@@@%*++*#@@@@@##****</tspan>
+<tspan x="0" y="392.8">=======+==========++++++++:..::----::**=*%:..::::::::::----===++**###*+=-:::--=#%@@@@*+++*#%@@%%%#*++#</tspan>
+<tspan x="0" y="408.0">========================:...::-=+=:..........:::::::---=====++****++-::=+=:-::+%@@#+++*##%@@@@%#+##%</tspan>
+<tspan x="0" y="423.2">===-========-==========+==--::::-+=:..........:::::---======++++++====+#-::::::#@%+++**###%@@@@@@@@@</tspan>
+<tspan x="0" y="438.4">=============+=++**#**++===-::::-==:.........:::::----====+++++++==--**+=:::::-#%*++**####@@@@@@@%@@</tspan>
+<tspan x="0" y="453.6">=--=------=-==*%@@@@@@@@%#=:::::::...........:::::---==+++++++++====+#*=-::::-#%**###*+++++*#%%@@%@@</tspan>
+<tspan x="0" y="468.8">------------=+%@@@@@@@@@@@%-:::...........:::::::--===+++++++++==+==---=-:::+%@@@%**#%%%%%%%#*++*#%%</tspan>
+<tspan x="0" y="484.0">------------=#@@@@@@@@@@@%%*-::..........:::::::--===+++++++++++++:::----:-#@@@@@@@@@@####@@@@@@#==*</tspan>
+<tspan x="0" y="499.2">==--=====++=+#@@@@@@%@@@@%#--===-:.::::::::::::--===++++++++++++*+:::---=#%@@@@@@@@@@@@##%@@%%%%%%%+</tspan>
+<tspan x="0" y="514.4">---------=-==#@@@@@%%%@@@%*:::--=+=:::::::::::---====+++++++++++*##*+**##%@@@@@@@@@@@@@@%%@@%%%%%%%@</tspan>
 </text>
 <text x="390" y="30" class="header"><tspan>htb95@mobile</tspan><tspan class="dim">  ----------------------------------------------</tspan></text>
-<text x="390" y="50" class="dim">. </text><text x="410" y="50" class="key">Role</text><text x="446" y="50" class="dim">:</text><text x="558" y="50" class="dim">..........</text><text x="650" y="50" class="value">Mobile Developer</text>
-<text x="390" y="70" class="dim">. </text><text x="410" y="70" class="key">Experience</text><text x="500" y="70" class="dim">:</text><text x="558" y="70" class="dim">..........</text><text x="650" y="70" class="value">Mobile development (2016-2024)</text>
-<text x="390" y="90" class="dim">. </text><text x="410" y="90" class="key">Focus</text><text x="455" y="90" class="dim">:</text><text x="558" y="90" class="dim">..........</text><text x="650" y="90" class="value">Android / iOS / cross-platform</text>
-<text x="390" y="110" class="dim">. </text><text x="410" y="110" class="key">Platforms</text><text x="491" y="110" class="dim">:</text><text x="558" y="110" class="dim">..........</text><text x="650" y="110" class="value">Android / iOS / Wear OS</text>
-<text x="390" y="130" class="dim">. </text><text x="410" y="130" class="key">Frameworks</text><text x="500" y="130" class="dim">:</text><text x="558" y="130" class="dim">..........</text><text x="650" y="130" class="value">Flutter / React Native</text>
-<text x="390" y="150" class="dim">. </text><text x="410" y="150" class="key">Connectivity</text><text x="518" y="150" class="dim">:</text><text x="558" y="150" class="dim">..........</text><text x="650" y="150" class="value">BLE / Firebase</text>
-<text x="390" y="170" class="dim">. </text><text x="410" y="170" class="key">ML Tools</text><text x="482" y="170" class="dim">:</text><text x="558" y="170" class="dim">..........</text><text x="650" y="170" class="value">ML Vision / Google ML Kit</text>
+<text x="390" y="50" class="dim">. </text><text x="410" y="50" class="key">Role</text><text x="446" y="50" class="dim">:</text><text x="558" y="50" class="dim">..........</text><text x="640" y="50" class="value">AI Researcher - Mobile Developer</text>
+<text x="390" y="70" class="dim">. </text><text x="410" y="70" class="key">Experience</text><text x="500" y="70" class="dim">:</text><text x="558" y="70" class="dim">..........</text><text x="640" y="70" class="value">Mobile development (2016-2024)</text>
+<text x="390" y="90" class="dim">. </text><text x="410" y="90" class="key">Focus</text><text x="455" y="90" class="dim">:</text><text x="558" y="90" class="dim">..........</text><text x="640" y="90" class="value">Android / iOS / cross-platform</text>
+<text x="390" y="110" class="dim">. </text><text x="410" y="110" class="key">Platforms</text><text x="491" y="110" class="dim">:</text><text x="558" y="110" class="dim">..........</text><text x="640" y="110" class="value">Android / iOS / Wear OS</text>
+<text x="390" y="130" class="dim">. </text><text x="410" y="130" class="key">Frameworks</text><text x="500" y="130" class="dim">:</text><text x="558" y="130" class="dim">..........</text><text x="640" y="130" class="value">Flutter / React Native</text>
+<text x="390" y="150" class="dim">. </text><text x="410" y="150" class="key">Connectivity</text><text x="518" y="150" class="dim">:</text><text x="558" y="150" class="dim">..........</text><text x="640" y="150" class="value">BLE / Firebase</text>
+<text x="390" y="170" class="dim">. </text><text x="410" y="170" class="key">ML Tools</text><text x="482" y="170" class="dim">:</text><text x="558" y="170" class="dim">..........</text><text x="640" y="170" class="value">ML Vision / Google ML Kit</text>
 <text x="390" y="210" class="section">- Selected Work</text><text x="535" y="210" class="dim">-------------------------------------------------</text>
-<text x="390" y="230" class="dim">. </text><text x="410" y="230" class="key">BLE Access</text><text x="500" y="230" class="dim">:</text><text x="558" y="230" class="dim">..........</text><text x="650" y="230" class="value">SmartKey doors + BLE lockers</text>
-<text x="390" y="250" class="dim">. </text><text x="410" y="250" class="key">Card Scan</text><text x="491" y="250" class="dim">:</text><text x="558" y="250" class="dim">..........</text><text x="650" y="250" class="value">ML Vision + Firebase</text>
-<text x="390" y="270" class="dim">. </text><text x="410" y="270" class="key">Barcodes</text><text x="482" y="270" class="dim">:</text><text x="558" y="270" class="dim">..........</text><text x="650" y="270" class="value">Google ML Kit multi-scan</text>
-<text x="390" y="290" class="dim">. </text><text x="410" y="290" class="key">Commerce</text><text x="482" y="290" class="dim">:</text><text x="558" y="290" class="dim">..........</text><text x="650" y="290" class="value">Shopping apps / seller-app tuning</text>
+<text x="390" y="230" class="dim">. </text><text x="410" y="230" class="key">BLE Access</text><text x="500" y="230" class="dim">:</text><text x="558" y="230" class="dim">..........</text><text x="640" y="230" class="value">SmartKey doors + BLE lockers</text>
+<text x="390" y="250" class="dim">. </text><text x="410" y="250" class="key">Card Scan</text><text x="491" y="250" class="dim">:</text><text x="558" y="250" class="dim">..........</text><text x="640" y="250" class="value">ML Vision + Firebase</text>
+<text x="390" y="270" class="dim">. </text><text x="410" y="270" class="key">Barcodes</text><text x="482" y="270" class="dim">:</text><text x="558" y="270" class="dim">..........</text><text x="640" y="270" class="value">Google ML Kit multi-scan</text>
+<text x="390" y="290" class="dim">. </text><text x="410" y="290" class="key">Commerce</text><text x="482" y="290" class="dim">:</text><text x="558" y="290" class="dim">..........</text><text x="640" y="290" class="value">Shopping apps / seller-app tuning</text>
 <text x="390" y="330" class="section">- Education</text><text x="535" y="330" class="dim">-------------------------------------------------</text>
-<text x="390" y="350" class="dim">. </text><text x="410" y="350" class="key">Program</text><text x="473" y="350" class="dim">:</text><text x="558" y="350" class="dim">..........</text><text x="650" y="350" class="value">Software Engineering</text>
-<text x="390" y="370" class="dim">. </text><text x="410" y="370" class="key">Institution</text><text x="509" y="370" class="dim">:</text><text x="558" y="370" class="dim">..........</text><text x="650" y="370" class="value">University of Science HCMC</text>
-<text x="390" y="390" class="dim">. </text><text x="410" y="390" class="key">Department</text><text x="500" y="390" class="dim">:</text><text x="558" y="390" class="dim">..........</text><text x="650" y="390" class="value">Computer Center</text>
-<text x="390" y="410" class="dim">. </text><text x="410" y="410" class="key">Period / GPA</text><text x="518" y="410" class="dim">:</text><text x="558" y="410" class="dim">..........</text><text x="650" y="410" class="value">Feb 2015-Feb 2016 / 9.0/10</text>
-<text x="390" y="430" class="dim">. </text><text x="410" y="430" class="key">Certificates</text><text x="518" y="430" class="dim">:</text><text x="558" y="430" class="dim">..........</text><text x="650" y="430" class="value">iOS (2016) / Android (2015)</text>
-<text x="390" y="470" class="section">- GitHub Stats</text><text x="535" y="470" class="dim">-------------------------------------------------</text>
-<text x="390" y="490" class="dim">. </text><text x="410" y="490" class="key">Profile</text><text x="473" y="490" class="dim">:</text><text x="558" y="490" class="dim">..........</text><text x="650" y="490" class="value">Repos 1 | Followers 0 | Following 1</text>
-<text x="390" y="510" class="dim">. </text><text x="410" y="510" class="key">Website</text><text x="473" y="510" class="dim">:</text><text x="558" y="510" class="dim">..........</text><text x="650" y="510" class="value">htb95.pages.dev</text>
+<text x="390" y="350" class="dim">. </text><text x="410" y="350" class="key">Program</text><text x="473" y="350" class="dim">:</text><text x="558" y="350" class="dim">..........</text><text x="640" y="350" class="value">Software Engineering</text>
+<text x="390" y="370" class="dim">. </text><text x="410" y="370" class="key">Institution</text><text x="509" y="370" class="dim">:</text><text x="558" y="370" class="dim">..........</text><text x="640" y="370" class="value">University of Science HCMC</text>
+<text x="390" y="390" class="dim">. </text><text x="410" y="390" class="key">Department</text><text x="500" y="390" class="dim">:</text><text x="558" y="390" class="dim">..........</text><text x="640" y="390" class="value">Computer Center</text>
+<text x="390" y="410" class="dim">. </text><text x="410" y="410" class="key">Period / GPA</text><text x="518" y="410" class="dim">:</text><text x="558" y="410" class="dim">..........</text><text x="640" y="410" class="value">Feb 2015-Feb 2016 / 9.0/10</text>
+<text x="390" y="430" class="dim">. </text><text x="410" y="430" class="key">Certificates</text><text x="518" y="430" class="dim">:</text><text x="558" y="430" class="dim">..........</text><text x="640" y="430" class="value">iOS (2016) / Android (2015)</text>
+<text x="390" y="470" class="section">- Focus Areas</text><text x="535" y="470" class="dim">-------------------------------------------------</text>
+<text x="390" y="490" class="dim">. </text><text x="410" y="490" class="key">Focus</text><text x="473" y="490" class="dim">:</text><text x="558" y="490" class="dim">..........</text><text x="640" y="490" class="value">Mobile AI / Computer Vision / BLE</text>
+<text x="390" y="510" class="dim">. </text><text x="410" y="510" class="key">Website</text><text x="473" y="510" class="dim">:</text><text x="558" y="510" class="dim">..........</text><text x="640" y="510" class="value">htb95.pages.dev</text>
 </svg>
